@@ -1,0 +1,13 @@
+faker-to-kafka-service:
+  faker-keywords:
+    - HarryPotter
+    - LordOfTheRings
+    - GameOfThrones
+    - ElderScrolls
+    - Hobbit
+    - ProgrammingLanguage
+  enable-mockdata: true
+  min-mocklength: 2
+  max-mocklength: 10
+  mock-sleepms: 1000
+
